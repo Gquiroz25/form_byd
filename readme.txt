@@ -1,11 +1,11 @@
-=== All-in-One WP Migration ===
+=== Form BYD Auto ===
 Contributors: yani.iliev, bangelov, pimjitsawang
 Tags: move, transfer, copy, migrate, backup, clone, restore, db migration, wordpress migration, website migration, database export, database import, apoyo, sauvegarde, di riserva, バックアップ
 Requires at least: 3.3
 Tested up to: 4.9
 Requires PHP: 5.2.17
 Stable tag: 6.77
-License: GPLv2 or later
+License: dobleku
 
 Move, transfer, copy, migrate, and backup a site with 1-click. Quick, easy, and reliable.
 
